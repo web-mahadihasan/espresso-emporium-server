@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Espresso",
+      "chef": "John Doe",
+      "supplier": "Coffee World",
+      "price": 810,
+      "category": "Beverage",
+      "details": "A classic Italian coffee brewed by forcing a small amount of nearly boiling water through finely-ground coffee beans.",
+      "photo": "https://i.ibb.co.com/8bHczsz/1.png"
+    },
+    {
+      "name": "Cappuccino",
+      "chef": "Jane Smith",
+      "supplier": "Cafe Delight",
+      "price": 890,
+      "category": "Beverage",
+      "details": "A popular coffee made with espresso, steamed milk, and topped with milk foam.",
+      "photo": "https://i.ibb.co.com/QNXxF7v/2.png"
+    },
+    {
+      "name": "Latte",
+      "chef": "Alice Johnson",
+      "supplier": "Latte Lovers",
+      "price": 550,
+      "category": "Beverage",
+      "details": "A creamy coffee drink made with espresso and steamed milk.",
+      "photo": "https://i.ibb.co.com/n1SPzXX/3.png"
+    },
+    {
+      "name": "Mocha",
+      "chef": "Michael Brown",
+      "supplier": "Choco Beans",
+      "price": 600,
+      "category": "Beverage",
+      "details": "A delicious combination of coffee, chocolate, and steamed milk.",
+      "photo": "https://i.ibb.co.com/JrDbCfk/4.png"
+    },
+    {
+      "name": "Americano",
+      "chef": "Emily Davis",
+      "supplier": "Brew Experts",
+      "price": 920,
+      "category": "Beverage",
+      "details": "A simple coffee made by adding hot water to espresso.",
+      "photo": "https://i.ibb.co.com/xC9YLVN/5.png"
+    },
+    {
+      "name": "Macchiato",
+      "chef": "William Wilson",
+      "supplier": "Coffee Haven",
+      "price": 580,
+      "category": "Beverage",
+      "details": "An espresso with a small amount of foamed milk.",
+      "photo": "https://i.ibb.co.com/xqdsDxB/6.png"
+    },
+    {
+      "name": "Flat White",
+      "chef": "Sophia Martinez",
+      "supplier": "Flat White Co.",
+      "price": 650,
+      "category": "Beverage",
+      "details": "An espresso-based drink with a higher ratio of coffee to milk.",
+      "photo": "https://i.ibb.co.com/5r5Wx8B/16.png"
+    },
+    {
+      "name": "Cold Brew",
+      "chef": "James Anderson",
+      "supplier": "Chill Beans",
+      "price": 700,
+      "category": "Beverage",
+      "details": "Coffee steeped in cold water for an extended period for a smoother taste.",
+      "photo": "https://i.ibb.co.com/x3TvJvm/17.png"
+    }
+  ]
+  
